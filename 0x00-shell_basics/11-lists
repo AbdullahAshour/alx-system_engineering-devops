@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . .. /tmp -l -a
+ls . .. /boot -l -a
