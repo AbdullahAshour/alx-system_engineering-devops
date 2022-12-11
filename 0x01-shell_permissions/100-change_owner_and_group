@@ -1,0 +1,2 @@
+#!bin/bash
+shown -R vincent:staff * */
