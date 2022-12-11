@@ -1,2 +1,2 @@
 #!/bin/bash
-gnome-open StarWars IV
+xdg-open StarWars IV
