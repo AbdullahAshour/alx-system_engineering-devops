@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al | sort -M |head
+ls | sort -M | head
